@@ -30,12 +30,12 @@ I was brought into Space Ape shortly after the launch of their first game to rep
 
 The primary technologies involved were AWS, Chef and Ruby.
 
-Upon my departure I was leading a team of 5 running and operating the game platform I had designed and we had built for two live titles with one in development. This platform included an API against which game teams could integrate to build and manage the infrastructure serving their game globally.
+Upon my departure I was leading a team of 5 running and operating the game platform I had designed and we had built for two live titles played by around 0.5 million users daily, with one title in development. This platform included an API against which game teams could integrate to build and manage the infrastructure serving their game globally.
 
 I [spoke publicly about this](https://www.youtube.com/watch?v=hoHhuLAtwxg) in 2014.
 
 ## Playfish (Electronic Arts)
-[Playfish](https://en.wikipedia.org/wiki/Playfish) was a large Facebook game developer with 26 titles, of which the best known was The Sims Social.
+[Playfish](https://en.wikipedia.org/wiki/Playfish) was a large Facebook game developer with 26 titles, of which the best known was The Sims Social. The latter alone had over 1.5 million daily active users.
 
 Playfish was a very early adopter of the then-new AWS. I was brought in to help deal with the massive scale they were experiencing as they grew to tens of millions of players. Since AWS consisted of only S3, EC2 and a few other peripheral services (no ELB!) a great deal of this work was low-level Linux kernel and TCP performance tuning. I also had significant dealings with the large and heavily sharded MySQL infrastructure.
 
