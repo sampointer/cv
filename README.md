@@ -4,7 +4,7 @@
 I am an experienced SRE with 20 years experience designing architecture for, building and running cloud-based global scale infrastructures. I am a polygot developer of infrastructure-centric tooling. I am happy and able to lead technical teams or work as an individual contributor. I believe technology should be a consequence of the application of good fundamental principals. I have been working with AWS since 2011 (pre-ELB) and have worked on traffic scales where turning off whole countries is the appropriate response to operational duress.
 
 ## Current Role: Centrica
-### November 2020 to present
+#### November 2020 to present
 [Centrica](https://www.centrica.com/) is a multi-national energy supplier.
 
 I am technical lead of an SRE function charged with the implementation of a large (tens of AWS payers, hundreds of AWS accounts, tens of Azure tenants) multi-cloud management platform.
