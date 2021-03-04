@@ -47,9 +47,24 @@ During my tenure I was also one of two primary architects and developers of a Ch
 
 I [spoke publicly on this topic](http://vimeo.com/57861199) in 2012.
 
-## Prior Roles
-#### 1999 to 2011
-I began my career writing IBM S/390 Mainframe Assembler and held a number of UNIX and Linux administrator roles.
+## Senior Infrastructure Analyst (Kurtosys)
+#### August 2008 to April 2011
+[Kurtosys](https://www.kurtosys.com/) is a SaaS service that provides services to the hedge fund industry.
+
+This role was a UNIX administration role typical of the era that encompassed Linux and Solaris administration, colocation activities, developer support and application support within the Java Application Server ecosystem.
+
+## Senior Production Engineer (HPD Software)
+#### September 2001 to May 2008
+[HPD](https://www.hpdlendscape.com/) was a software development house and very early SaaS provider to the Factoring industry.
+
+This role was incredibly varied and included support for UNIX systems (AIX, FreeBSD, HP-UX, Linux, Solaris) and IBM AS/400 (iSeries) systems. In modern terms the work be described as "full stack" in the sense that along with administering modem farms, X.25 ISDN infrastructure, backups, developer workstation, in-house mail and web servers I was also heavily involved in building out the hosting facilities for the SaaS business from router to partition layouts. It was old-school sysadmin stuff where one was as likely to be updating PCMCIA drivers as authoring shell scripts. Towards the latter end of my tenure the role moved more towards application and customer support including on-site installations at various multi-national customers.
+
+
+## Developer (Natwest)
+#### August 1999 to August 2001
+[Natwest](https://personal.natwest.com/) is a high-street bank.
+
+My first job. I wrote Assembler and PL/1 for IBM S/390 mainframes that constituted the core accounting systems of a national bank. Much of this software was written in support of what was then the [largest data migration undertaken in the UK](https://www.finextra.com/newsarticle/7290/rbs-completes-natwest-customer-it-integration).
 
 ## Other Notable Experience
 * My side project [runson.cloud](https://runson.cloud) was featured on the front page of the [lobste.rs](https://lobste.rs) technology news aggregator in January of 2021
