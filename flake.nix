@@ -25,7 +25,12 @@
           pkgs.mkShell {
             nativeBuildInputs = [
               pkgs.pandoc
+              pkgs.tectonic
             ];
+            shellHook = ''
+              pandoc README.md --pdf-engine='tectonic' -o sam_pointer.pdf
+            '';
        });
+
     };
 }
