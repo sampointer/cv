@@ -4,7 +4,10 @@
 I am an experienced SRE with 20 years experience designing architecture for, building and running cloud-based global scale infrastructures. I am a polygot developer of infrastructure-centric tooling. I am happy and able to lead technical teams or work as an individual contributor. I believe technology should be a consequence of the application of good fundamental principals. I have been working with AWS since 2011 (pre-ELB) and have worked on traffic scales where turning off whole countries is the appropriate response to operational duress.
 
 ## Current Role: Apple
-#### April 2021 to present
+#### October 2023 to Present
+Full-time employee at Apple as an SRE.
+
+#### April 2021 to September 2023
 Contractor at Apple as an SRE.
 
 ## Centrica
