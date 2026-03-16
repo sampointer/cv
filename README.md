@@ -1,7 +1,7 @@
 # Sam Pointer: SRE
 
 ## Overview
-I am an experienced SRE with 20 years experience designing architecture for, building and running cloud-based global scale infrastructures. I am a polygot developer of infrastructure-centric tooling. I am happy and able to lead technical teams or work as an individual contributor. I believe technology should be a consequence of the application of good fundamental principals. I have been working with AWS since 2011 (pre-ELB) and have worked on traffic scales where turning off whole countries is the appropriate response to operational duress.
+I am an experienced SRE with 26 years experience designing architecture for, building and running cloud-based global scale infrastructures. I am a polygot developer of infrastructure-centric tooling. I am happy and able to lead technical teams or work as an individual contributor. I believe technology should be a consequence of the application of good fundamental principals. I have been working with AWS since 2011 (pre-ELB) and have worked on traffic scales where turning off whole countries is the appropriate response to operational duress.
 
 ## Current Role: Apple
 #### October 2023 to Present
@@ -14,11 +14,11 @@ Contractor at Apple as an SRE.
 #### November 2020 to April 2021
 [Centrica](https://www.centrica.com/) is a multi-national energy supplier.
 
-I am technical lead of an SRE function charged with the implementation of a large (tens of AWS payers, hundreds of AWS accounts, tens of Azure tenants) multi-cloud management platform.
+I was the technical lead of an SRE function charged with the implementation of a large (tens of AWS payers, hundreds of AWS accounts, tens of Azure tenants) multi-cloud management platform.
 
-We practice test-driven infrastructure development with Go and Terraform to continuously deploy Guard Rails and tooling across the cloud estate. A guiding principal is the emission and collection of telemetry to enable alerting, escalation, cost and performance improvements and post-mortem analysis.
+We practiced test-driven infrastructure development with Go and Terraform to continuously deploy Guard Rails and tooling across the cloud estate. A guiding principal was the emission and collection of telemetry to enable alerting, escalation, cost and performance improvements and post-mortem analysis.
 
-I am a hands-on developer who also sets technical direction along with planning and running sprints for a team of 11. I also engage in internal consulting on SRE principals with internal teams.
+I was a hands-on developer who also sets technical direction along with planning and running sprints for a team of 11. I was also engaged in internal consulting on SRE principals with internal teams.
 
 ## Hive
 #### March 2015 to October 2020
